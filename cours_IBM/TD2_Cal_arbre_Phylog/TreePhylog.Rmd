@@ -1,0 +1,18 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
+
+Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Ctrl+Shift+Enter*. 
+
+```{r}
+data=read.table("D:/Nouveau dossier (2)/TP_GO/TD2_Cal_arbre_Phylog_AichaLAMMAMRA/tree.csv",header=TRUE,sep=";",na.strings="NA",dec=".")
+row.names(data)<-as.character(data$Colonne1)
+library(cluster)
+treePhyl <- agnes(data,diss=FALSE,stand=FALSE)
+#pltree(treePhyl)
+plot(treePhyl,xlab = " Bactérie", ylab="Distance",main = "Arbre Phylogénie")
+```
+

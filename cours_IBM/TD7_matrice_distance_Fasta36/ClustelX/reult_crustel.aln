@@ -1,0 +1,226 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+Rhodobacter_sphaeroides_ATCC_1      --------------------------------------------MNGERA
+Pseudomonas_aeruginosa_LESB58       --------------------------------------------------
+Streptomyces_flavogriseus_ATCC      ------------------------------------------------VL
+Micrococcus_luteus_NCTC_2665_u      -----------------------------------------------VVA
+Bacillus_subtilis                   --------------------------------------------------
+Bacillus_amyloliquefaciens_FZB      --------------------------------------------------
+Bacillus_licheniformis_ATCC_14      --------------------------------------------------
+Bacillus_pumilus_SAFR_032           --------------------------------------------------
+Bacillus_cereus_03BB102             --------------------------------------------------
+Bacillus_anthracis_Ames             --------------------------------------------------
+Bacillus_thuringiensis_BMB171       --------------------------------------------------
+Bacillus_coagulans_2_6              MSKFQIYSLLYIFPPYKHMHVYKWPQPSPKQCYTDRENGYFSFDKKEGLA
+Lactococcus_lactis_Il1403           -----------------------------------------------MAS
+Escherichia_coli_K_12_substr__      --------------------------------------------------
+                                                                                      
+
+Rhodobacter_sphaeroides_ATCC_1      QEMTNETWVQVREGLLKRVGR-NNFVTWIEPLRLMGLDDGVARFEVPTLF
+Pseudomonas_aeruginosa_LESB58       --VSVELWQQCVDLLRDELPS-QQFNTWIRPLQVEAEGD-ELRVYAPNRF
+Streptomyces_flavogriseus_ATCC      EQLLG----------EGQQGIEPKDKQWIERCQPLALVADTALLAVPNEW
+Micrococcus_luteus_NCTC_2665_u      DQAVLSSWRSVVGSLEDDARVSARLMGFVYLAQPQGLIGNTLLLAVPNET
+Bacillus_subtilis                   MENILDLWNQALAQIEKKLSK-PSFETWMKSTKAHSLQGDTLTITAPNEF
+Bacillus_amyloliquefaciens_FZB      MENILDLWNQALAQIEKKLSK-PSFETWMKSTKAHSLQGDTLTITAPNEF
+Bacillus_licheniformis_ATCC_14      MKNISDLWNQALGQIEKKLSK-PSFETWMKSTKAHSLQGDTLIITAPNEF
+Bacillus_pumilus_SAFR_032           MENILDLWNKALQKIETKLSK-PSFETWMKSTKAHSLQGDTLTITAPNEF
+Bacillus_cereus_03BB102             LENISDLWNSALKELEKKVSK-PSYETWLKSTTAHNLKKDVLTITAPNEF
+Bacillus_anthracis_Ames             LENISDLWNSALKELEKKVSK-PSYETWLKSTTAHNLKKDVLTITAPNEF
+Bacillus_thuringiensis_BMB171       LENISDLWNSALKELEKKVSK-PSYETWLKSTTAHNLKKDVLTITAPNEF
+Bacillus_coagulans_2_6              LENIADLWEKALSVIEKKISK-PSFDTWLKSTKAYSLKNDTFVISVPNEF
+Lactococcus_lactis_Il1403           LNENQKFWARVTELAQQSIGK-QAYDFFIEPAQLMSVEQDTANILLDSGM
+Escherichia_coli_K_12_substr__      --------------------------------------------------
+                                                                                      
+
+Rhodobacter_sphaeroides_ATCC_1      FGDWVQR-NFADHIRLRLTEAG----------------------------
+Pseudomonas_aeruginosa_LESB58       VLDWVNE-KYLGRLLELLGERGEGQLPALSLLIGSKRSRTPRAAIVPSQT
+Streptomyces_flavogriseus_ATCC      GKRVLEG-RLAPLISETLTRECG---------------------------
+Micrococcus_luteus_NCTC_2665_u      TRETLQGTQVADALTDALTQEFR---------------------------
+Bacillus_subtilis                   ARDWLES-RYLHLIADTIYELTG---------------------------
+Bacillus_amyloliquefaciens_FZB      ARDWLES-RYLHLIADTIYELTG---------------------------
+Bacillus_licheniformis_ATCC_14      ARDWLES-RYLHLIADTIYDLTG---------------------------
+Bacillus_pumilus_SAFR_032           ARDWLES-RYLHLIADTIYELTG---------------------------
+Bacillus_cereus_03BB102             ARDWLES-HYSELISETLYDLTG---------------------------
+Bacillus_anthracis_Ames             ARDWLES-HYSELISETLYDLTG---------------------------
+Bacillus_thuringiensis_BMB171       ARDWLES-HYSELISETLYDLTG---------------------------
+Bacillus_coagulans_2_6              ARDWLEG-HYIPLITTVLYDITG---------------------------
+Lactococcus_lactis_Il1403           KKDYWKK--QSDLITTAGFEVFG---------------------------
+Escherichia_coli_K_12_substr__      --------------------------------------------------
+                                                                                      
+
+Rhodobacter_sphaeroides_ATCC_1      ------------SPVERLEFAVSNSPRPPLKEVRTAA-------------
+Pseudomonas_aeruginosa_LESB58       HVAPPPPVAPPPAPVQPVSAAPVVVPREELPPVTTAPSVSSDPYEPEE--
+Streptomyces_flavogriseus_ATCC      ---------------RPIRIAITVDDSAGEPPAPPAPPMHQPRQGQQAHR
+Micrococcus_luteus_NCTC_2665_u      ---------------EEILLAISIDANLQ----PPRTPSSEAR-------
+Bacillus_subtilis                   ---------------EELSIKFVIPQNQD---------------------
+Bacillus_amyloliquefaciens_FZB      ---------------EELSVKFVIPQNQD---------------------
+Bacillus_licheniformis_ATCC_14      ---------------EELSIKFVIPQNQN---------------------
+Bacillus_pumilus_SAFR_032           ---------------EELSIKFIIPQNQD---------------------
+Bacillus_cereus_03BB102             ---------------AKLAIRFIIPQSQA---------------------
+Bacillus_anthracis_Ames             ---------------AKLAIRFIIPQSQA---------------------
+Bacillus_thuringiensis_BMB171       ---------------AKLAIRFIIPQSQA---------------------
+Bacillus_coagulans_2_6              ---------------EELEIKFVIPQQQD---------------------
+Lactococcus_lactis_Il1403           ---------------RMIDYELYANDELT---------------------
+Escherichia_coli_K_12_substr__      --------------------------------------------------
+                                                                                      
+
+Rhodobacter_sphaeroides_ATCC_1      --------------------------------------------------
+Pseudomonas_aeruginosa_LESB58       -----------------------------------------------PSI
+Streptomyces_flavogriseus_ATCC      YQGPQHDEPSRNDGYDNYGPRPSDDGMPTARPAYPDYQQHRPEPGAWPRA
+Micrococcus_luteus_NCTC_2665_u      --------------------RSSLAGGPSG------------------AA
+Bacillus_subtilis                   --------------------------------------------------
+Bacillus_amyloliquefaciens_FZB      --------------------------------------------------
+Bacillus_licheniformis_ATCC_14      --------------------------------------------------
+Bacillus_pumilus_SAFR_032           --------------------------------------------------
+Bacillus_cereus_03BB102             --------------------------------------------------
+Bacillus_anthracis_Ames             --------------------------------------------------
+Bacillus_thuringiensis_BMB171       --------------------------------------------------
+Bacillus_coagulans_2_6              --------------------------------------------------
+Lactococcus_lactis_Il1403           ------------------------------------------------EL
+Escherichia_coli_K_12_substr__      --------------------------------------------------
+                                                                                      
+
+Rhodobacter_sphaeroides_ATCC_1      APVAKARPAPAEEDLRGAP-------------------------------
+Pseudomonas_aeruginosa_LESB58       DPLAAAMPAGAAPAVRTERNVQV---------------------------
+Streptomyces_flavogriseus_ATCC      QEDLSWQPRHGGYQERDPYASPRPQQPQHDYRPQPPEHQGYEPQRDSRDR
+Micrococcus_luteus_NCTC_2665_u      APDVELPPAATAATSRRAVAEELPG-----FRIEPP--------------
+Bacillus_subtilis                   VED-FMPKPQVKKAVKE---------------------------------
+Bacillus_amyloliquefaciens_FZB      EEN-FLPKPQVKKAAKE---------------------------------
+Bacillus_licheniformis_ATCC_14      EED-FMPKSPIKKMSKE---------------------------------
+Bacillus_pumilus_SAFR_032           EVE-AMPKSPIKKMSKE---------------------------------
+Bacillus_cereus_03BB102             EEEIDLPPS-KPNAAQD---------------------------------
+Bacillus_anthracis_Ames             EEEIDLPPA-KPNAAQD---------------------------------
+Bacillus_thuringiensis_BMB171       EEDIDLPPV-KPNPAQD---------------------------------
+Bacillus_coagulans_2_6              SDEPELFPSPKKSADKL---------------------------------
+Lactococcus_lactis_Il1403           ELHRLNNQSSIEEQPRS---------------------------------
+Escherichia_coli_K_12_substr__      --------------------------------------------------
+                                                                                      
+
+Rhodobacter_sphaeroides_ATCC_1      -----------------------------------------LDSRFTFDS
+Pseudomonas_aeruginosa_LESB58       --------------------------------EGALKHTSYLNRTFTFEN
+Streptomyces_flavogriseus_ATCC      HDLQDQQPQHRQGGPGTGRAGGGPMGNQSAPPPGTGEPHARLNPKYLFDT
+Micrococcus_luteus_NCTC_2665_u      ---ADVVPAANAAPNGNGKP--------TPAPPSTSAETSRLNDRYHFET
+Bacillus_subtilis                   --------------------------------DTSDFPQNMLNPKYTFDT
+Bacillus_amyloliquefaciens_FZB      --------------------------------EPSDFPQSMLNPKYTFDT
+Bacillus_licheniformis_ATCC_14      --------------------------------EPADFPQNMLNPKYTFDT
+Bacillus_pumilus_SAFR_032           --------------------------------DPVDIPQNMLNPKYTFDT
+Bacillus_cereus_03BB102             --------------------------------DSNHLPQSMLNPKYTFDT
+Bacillus_anthracis_Ames             --------------------------------DSNHLPQSMLNPKYTFDT
+Bacillus_thuringiensis_BMB171       --------------------------------DSAHLPQSMLNPKYTFDT
+Bacillus_coagulans_2_6              --------------------------------NDTRDYQSMLIPKYTFDT
+Lactococcus_lactis_Il1403           ------------------------------TAKPASPLVSGLNEKYNFEN
+Escherichia_coli_K_12_substr__      ------------------------------------------VQERIKAC
+                                                                                      
+
+Rhodobacter_sphaeroides_ATCC_1      FVVGKPNELAHAAARRVAEGGPVTFNPLFLYGGVGLGKTHLMHAIAHELQ
+Pseudomonas_aeruginosa_LESB58       FVEGKSNQLARAAAWQVADNLKHGYNPLFLYGGVGLGKTHLMHAVGNHLL
+Streptomyces_flavogriseus_ATCC      FVIGASNRFAHAAAVAVAEAPAKAYNPLFIYGESGLGKTHLLHAIGHYAR
+Micrococcus_luteus_NCTC_2665_u      FVIGSSNRFAHAAANAVAEAPAKAYNPLFIYGESGLGKTHLLHAIGHYAR
+Bacillus_subtilis                   FVIGSGNRFAHAASLAVAEAPAKAYNPLFIYGGVGLGKTHLMHAIGHYVI
+Bacillus_amyloliquefaciens_FZB      FVIGSGNRFAHAASLAVAEAPAKAYNPLFIYGGVGLGKTHLMHAIGHYVI
+Bacillus_licheniformis_ATCC_14      FVIGSGNRFAHAASLAVAEAPAKAYNPLFIYGGVGLGKTHLMHAIGHYVI
+Bacillus_pumilus_SAFR_032           FVIGSGNRFAHAASLAVAEAPAKAYNPLFIYGGVGLGKTHLMHAIGHYVI
+Bacillus_cereus_03BB102             FVIGSGNRFAHAASLAVAEAPAKAYNPLFIYGGVGLGKTHLMHAIGHYVI
+Bacillus_anthracis_Ames             FVIGSGNRFAHAASLAVAEAPAKAYNPLFIYGGVGLGKTHLMHAIGHYVI
+Bacillus_thuringiensis_BMB171       FVIGSGNRFAHAASLAVAEAPAKAYNPLFIYGGVGLGKTHLMHAIGHYVI
+Bacillus_coagulans_2_6              FVIGSGNRFAHAASLAVAEAPAKAYNPLFIYGGVGLGKTHLMHAIGHYVL
+Lactococcus_lactis_Il1403           FVQGPGNRWTLAAAIAVADKPGDTYNPLFIYGGAGLGKTHLMHAIGNQIL
+Escherichia_coli_K_12_substr__      FTESIQTQIAAAEALPDAISR----AAMTLVQSLLNGNKILCCGNGTSAA
+                                    *. .  .. : * :   *        .: :      *:. *  . .    
+
+Rhodobacter_sphaeroides_ATCC_1      KRQPGARVLYLSAEQFMYRFVQALREREILGFKELFRSVDVLMVDDVQFI
+Pseudomonas_aeruginosa_LESB58       KKNPNAKVVYLHSERFVADMVKALQLNAINEFKRFYRSVDALLIDDIQFF
+Streptomyces_flavogriseus_ATCC      SLYPGTRVRYVSSEEFTNEFINSIRDGKGDTFRKRYRDVDILLVDDIQFL
+Micrococcus_luteus_NCTC_2665_u      RLYPGLRVRYVNSEEFTNDFINSIRHDEGASFKQVYRNVDILLIDDIQFL
+Bacillus_subtilis                   DHNPSAKVVYLSSEKFTNEFINSIRDNKAVDFRNRYRNVDVLLIDDIQFL
+Bacillus_amyloliquefaciens_FZB      DHNPSAKVVYLSSEKFTNEFINSIRDNKAVDFRNRYRNVDVLLIDDIQFL
+Bacillus_licheniformis_ATCC_14      DHNPSAKVVYLSSEKFTNEFINSIRDNKAVDFRNRYRNVDVLLIDDIQFL
+Bacillus_pumilus_SAFR_032           DHNPSAKVVYLSSEKFTNEFINSIRDNKAVDFRNRYRNVDVLLIDDIQFL
+Bacillus_cereus_03BB102             EHNPNAKVVYLSSEKFTNEFINSIRDNKAVDFRNKYRNVDVLLIDDIQFL
+Bacillus_anthracis_Ames             EHNPNAKVVYLSSEKFTNEFINSIRDNKAVDFRNKYRNVDVLLIDDIQFL
+Bacillus_thuringiensis_BMB171       EHNPNAKVVYLSSEKFTNEFINSIRDNKAVDFRNKYRNVDVLLIDDIQFL
+Bacillus_coagulans_2_6              EHNPKAKVVYLSSEKFTNEFINSIRDNKGGEFRNKYRNVDILLIDDIQFL
+Lactococcus_lactis_Il1403           TDNPTARIKYVSSENFVNDYVNATRKNQMENFENTYRNLDLLLLDDVQFF
+Escherichia_coli_K_12_substr__      N-----------AQHFAASMINRFETER-PSLPAIALNTDNVVLT---AI
+                                                ::.*    ::  .      :     . * :::     :
+
+Rhodobacter_sphaeroides_ATCC_1      AGKDSTQEEFFHTFNALVDQNKQIVISADRAPGEIKDLEERIKSRLQCGL
+Pseudomonas_aeruginosa_LESB58       ARKERSQEEFFHTFNALLEGGQQVILTSDRYPKEIEGLEERLKSRFGWGL
+Streptomyces_flavogriseus_ATCC      ASKESTQEEFFHTFNTLHNANKQIVLSSDRPPKQLVTLEDRLRNRFEWGL
+Micrococcus_luteus_NCTC_2665_u      ADKEATVEEFFHTFNTLYNNNKQVVITSDLPPKQLSGFEDRLRSRFEWGL
+Bacillus_subtilis                   AGKEQTQEEFFHTFNTLHEESKQIVISSDRPPKEIPTLEDRLRSRFEWGL
+Bacillus_amyloliquefaciens_FZB      AGKEQTQEEFFHTFNTLHEESKQIVISSDRPPKEIPTLEDRLRSRFEWGL
+Bacillus_licheniformis_ATCC_14      AGKEQTQEEFFHTFNTLHEETKQIVISSDRPPKEIPTLEDRLRSRFEWGL
+Bacillus_pumilus_SAFR_032           AGKEQTQEEFFHTFNTLHEESKQIVISSDRPPKEIPTLEDRLRSRFEWGL
+Bacillus_cereus_03BB102             AGKEQTQEEFFHTFNALHEESKQIVISSDRPPKEIPTLEDRLRSRFEWGL
+Bacillus_anthracis_Ames             AGKEQTQEEFFHTFNALHEESKQIVISSDRPPKEIPTLEDRLRSRFEWGL
+Bacillus_thuringiensis_BMB171       AGKEQTQEEFFHTFNALHEESKQIVISSDRPPKEIPTLEDRLRSRFEWGL
+Bacillus_coagulans_2_6              AGKESTQEEFFHTFNALHEESKQIVISSDRPPKEIPTLEERLRSRFEWGL
+Lactococcus_lactis_Il1403           SDKEGTKNEFFNTFNALYDKGSQIVLTSDRIPQELNNLEDRLVSRFSWGL
+Escherichia_coli_K_12_substr__      ANDRLHDEVYAKQVRALGHAGDVLLAISTR--------------------
+                                    : .    : : : ..:* .  . ::  :                      
+
+Rhodobacter_sphaeroides_ATCC_1      VVDLHPTDYELRLGILQQKADFYREQYRGLVIADGVLEFLAHRITTNVRV
+Pseudomonas_aeruginosa_LESB58       TVAVEPPELETRVAILMKKAEQAKIELP-----HDAAFFIAQRIRSNVRE
+Streptomyces_flavogriseus_ATCC      TTDVQPPELETRIAILRKKAVQEQLNAP-----PEVLEFIASRISRNIRE
+Micrococcus_luteus_NCTC_2665_u      ITDIQPPDLETRIAILRKKAEAEGLVAP-----PEALEYIASRISTNIRE
+Bacillus_subtilis                   ITDITPPDLETRIAILRKKAKAEGLDIP-----NEVMLYIANQIDSNIRE
+Bacillus_amyloliquefaciens_FZB      ITDITPPDLETRIAILRKKAKAEGLDIP-----NEVMLYIANQIDSNIRE
+Bacillus_licheniformis_ATCC_14      ITDITPPDLETRIAILRKKAKAEGLDIP-----NEVMLYIANQIDSNIRE
+Bacillus_pumilus_SAFR_032           ITDITPPDLETRIAILRKKAKAEGLDIP-----NEVMLYIANQIDSNIRE
+Bacillus_cereus_03BB102             ITDITPPDLETRIAILRKKAKAEGLDIP-----NEVMLYIANQIDSNIRE
+Bacillus_anthracis_Ames             ITDITPPDLETRIAILRKKAKAEGLDIP-----NEVMLYIANQIDSNIRE
+Bacillus_thuringiensis_BMB171       ITDITPPDLETRIAILRKKAKAEGLDIP-----NEVMLYIANQIDSNIRE
+Bacillus_coagulans_2_6              ITDITPPDLETRIAILRKKAKADGLDIP-----NEVMLYIANQIDTNIRE
+Lactococcus_lactis_Il1403           TTDITAPDYETRMAILLIKSESSRLEFP-----SETLSYIAGQIDSNVRE
+Escherichia_coli_K_12_substr__      -----------------------------------------GNSRDIVKA
+                                                                              .    :: 
+
+Rhodobacter_sphaeroides_ATCC_1      LEGALTRLFAFASLVGRE-ITLDLAQDCLADILR---ASDRKVTIEEIQR
+Pseudomonas_aeruginosa_LESB58       LEGALKRVIAHSHFMGRP-ITIELIRESLKDLLA---LQDKLVSIDNIQR
+Streptomyces_flavogriseus_ATCC      LEGALIRVTAFASLNRQP-VDLGLTEIVLKDLIPGGEDSAPEITAPAIMA
+Micrococcus_luteus_NCTC_2665_u      LEGALIRVTAFASLNRQT-VDIELAEHVLKDLIT--DETAHEITPELILH
+Bacillus_subtilis                   LEGALIRVVAYSSLINKD-INADLAAEALKDIIP--SSKPKVITIKEIQR
+Bacillus_amyloliquefaciens_FZB      LEGALIRVVAYSSLINKD-INADLAAEALKDIIP--SSKPKVITIKEIQR
+Bacillus_licheniformis_ATCC_14      LEGALIRVVAYSSLINKD-INADLAAEALKDIIP--SSKPKVITIKDIQR
+Bacillus_pumilus_SAFR_032           LEGALIRVVAYSSLINKD-INADLAAEALKDIIP--SSKPRVITIKDIQR
+Bacillus_cereus_03BB102             LEGALIRVVAYSSLINKD-INADLAAEALKDIIP--NSKPKIISIYDIQK
+Bacillus_anthracis_Ames             LEGALIRVVAYSSLINKD-INADLAAEALKDIIP--NSKPKIISIYDIQK
+Bacillus_thuringiensis_BMB171       LEGALIRVVAYSSLINKD-INADLAAEALKDIIP--NSKPKIISIYDIQK
+Bacillus_coagulans_2_6              LEGALIRVVAYSSLINKD-INADLAAEALKDIIP--SAKPKTITIEDIQK
+Lactococcus_lactis_Il1403           LEGALNRVEFVARANGIAVVDIETASQALRSLKNATQQSLSNLTIKKIQD
+Escherichia_coli_K_12_substr__      VEAAVTRDMTIVALTGYD-------GGELAGLLG----------PQDVEI
+                                    :*.*: *                     * .:               :  
+
+Rhodobacter_sphaeroides_ATCC_1      KVAEHYNIRLSDMIGPKRLRTIARPRQVAMYLAKHLTPRSLPEIGRRFGG
+Pseudomonas_aeruginosa_LESB58       TVAEYYKIKISDLLSKRRSRSVARPRQVAMALSKELTNHSLPEIGVAFGG
+Streptomyces_flavogriseus_ATCC      ATADYFGLTVEDLCGSSRSRVLVTARQIAMYLCRELTDLSLPKIGAQFGG
+Micrococcus_luteus_NCTC_2665_u      ATGEYFNLTLEELTSKSRTRTLVTARQIAMYLLRELTEMSLPKIGQVLGG
+Bacillus_subtilis                   VVGQQFNIKLEDFKAKKRTKSVAFPRQIAMYLSREMTDSSLPKIGEEFGG
+Bacillus_amyloliquefaciens_FZB      IVGQQFNIKLEDFKAKKRTKSVAFPRQIAMYLSREMTDSSLPKIGEEFGG
+Bacillus_licheniformis_ATCC_14      IVGQQFNIKLEDFKAKKRTKSVAFPRQIAMYLSREMTDSSLPKIGEEFGG
+Bacillus_pumilus_SAFR_032           IVGQQFNIRLEDFKAKKRTKSVAYPRQIAMYLSREMTDSSLPKIGEEFGG
+Bacillus_cereus_03BB102             AVGDVYQVKLEDFKAKKRTKSVAFPRQIAMYLSRELTDSSLPKIGEEFGG
+Bacillus_anthracis_Ames             AVGDVYQVKLEDFKAKKRTKSVAFPRQIAMYLSRELTDSSLPKIGEEFGG
+Bacillus_thuringiensis_BMB171       AVGDVYQVKLEDFKAKKRTKSVAFPRQIAMYLSRELTDSSLPKIGEEFGG
+Bacillus_coagulans_2_6              VVGEEYHVKMEDFKAKKRTKSVAFPRQIAMYLSRELTDFSLPKIGEEFGG
+Lactococcus_lactis_Il1403           EVANYYHISFSDLVGPKRPKEIAFPRQIAMYLVRELLGTSLPAIGTAFGG
+Escherichia_coli_K_12_substr__      RIPSHRSARIQEMHMLTVN-----------CLCDLIDNTLFPHQDD----
+                                       .     ..::                  *   :    :*  .     
+
+Rhodobacter_sphaeroides_ATCC_1      RDHTTIMHGVRKIEELMATDSQLADDLQLLRRLLQA-----
+Pseudomonas_aeruginosa_LESB58       RDHTTVLHACRKIAQLRESDADIREDYKNLLRTLTT-----
+Streptomyces_flavogriseus_ATCC      RDHTTVMHADRKIRALMAERRSIYNQVTELTNRIKNG----
+Micrococcus_luteus_NCTC_2665_u      RDHTTVIHADRKIRELMAERRTIYNQVTELTNEIKRKQRGA
+Bacillus_subtilis                   RDHTTVIHAHEKISKLLADDEQLQQHVKEIKEQLK------
+Bacillus_amyloliquefaciens_FZB      RDHTTVIHAHEKISKLLIDDEQLQQQVKEIKELLK------
+Bacillus_licheniformis_ATCC_14      RDHTTVIHAHEKISKLLSDDEQLQQQIKEIKEQLR------
+Bacillus_pumilus_SAFR_032           RDHTTVIHAHEKISKLMVEDEQLQQHVKEIKEQLK------
+Bacillus_cereus_03BB102             RDHTTVIHAHEKISKLLKTDTQLQKQVEEINDILK------
+Bacillus_anthracis_Ames             RDHTTVIHAHEKISKLLKTDTQLQKQVEEINDILK------
+Bacillus_thuringiensis_BMB171       RDHTTVIHAHEKISKLLKTDTQLQKQVEEINGILK------
+Bacillus_coagulans_2_6              RDHTTVIHAHEKIANLIQTDAQFQKKIEELQNLLKNG----
+Lactococcus_lactis_Il1403           RDHTTVMYAYKQISDKMKNDMDVQKDIDSIKRKF-------
+Escherichia_coli_K_12_substr__      -----------------------------------------
+                                                                             
