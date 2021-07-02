@@ -1,3 +1,0 @@
-/home/alainkonan/TP/projet/projet/projetgroupe/build/CMakeFiles/rebuild_cache.dir
-/home/alainkonan/TP/projet/projet/projetgroupe/build/CMakeFiles/main.dir
-/home/alainkonan/TP/projet/projet/projetgroupe/build/CMakeFiles/edit_cache.dir
